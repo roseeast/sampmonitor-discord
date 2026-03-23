@@ -2,7 +2,7 @@
 /*
 	This is a Dicord Bot for SAMP Servers written in Node.js
 	Bot Version: 2.1
-	Author: Abhay SV Aka DuskFawn Aka Perfectboy. 
+	Author: Roseeast
 */
 //=======================================================================================
 
