@@ -49,18 +49,6 @@
 -Utlity cmd /clear to clear messages in bulk.<br />
 -Supports On the fly configuration changes.
 
----
-## Initial Setup. 📝
--You can directly depoy this bot with a free Dyno offered by Heroku. Just signup for a free acc at heroku and click the Deploy button.<br />
--For a detailed tutorial [click here](https://github.com/abhaysv/SAMP-Discord-Bot-Dumbledore/wiki).
-
----
-
-## Deployment 📝
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
----
-
 
 
 
